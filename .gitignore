@@ -1,0 +1,5 @@
+*.exe 		#ignore all files .exe
+*.html		#ignore all files .html
+!index.html	#don't ignore index.html 
+cache/		#ignore the files in the cache folder
+log.txt		#ignore the file log.html
